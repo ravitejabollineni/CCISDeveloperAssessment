@@ -101,5 +101,6 @@ Select an option:
 * If the input stream ends (end of file, `Ctrl+Z` on Windows, `Ctrl+D` on Linux/macOS, or piped
   input running out), the application stops instead of looping forever.
 
+<img width="796" height="1086" alt="image" src="https://github.com/user-attachments/assets/d6cf4e39-5094-46d5-9ef9-53bae44f7959" />
 
 
